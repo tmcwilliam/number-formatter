@@ -1,4 +1,4 @@
-Number Formatter [![Build Status](https://travis-ci.org/tmcwilliam/number-formatter.svg)](https://travis-ci.org/tmcwilliam/number-formatter)
+Number Formatter [![Build Status](https://travis-ci.org/tmcwilliam/number-formatter.svg)](https://travis-ci.org/tmcwilliam/number-formatter) [![Coverage Status](https://coveralls.io/repos/tmcwilliam/number-formatter/badge.svg?branch=master&service=github)](https://coveralls.io/github/tmcwilliam/number-formatter?branch=master)
 =========
 
 A small library that adds commas to numbers
