@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "Format your numbers correctly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmcwilliam/number-formatter.git"
+  },
+  "author": "Travis McWilliam <t.mcwilliam@gmail.com> (http://www.travismcwilliam.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmcwilliam/number-formatter/issues"
+  },
+  "homepage": "https://github.com/tmcwilliam/number-formatter#readme",
+  "engines": {
+    "node": ">=0.12.6"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
