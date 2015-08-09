@@ -1,7 +1,5 @@
-Number Formatter
+Number Formatter [![Build Status](https://travis-ci.org/tmcwilliam/number-formatter.svg)](https://travis-ci.org/tmcwilliam/number-formatter)
 =========
-
-[![Build Status](https://travis-ci.org/tmcwilliam/number-formatter.svg)](https://travis-ci.org/tmcwilliam/number-formatter)
 
 A small library that adds commas to numbers
 
