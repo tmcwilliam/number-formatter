@@ -3,7 +3,7 @@
 /**
  * Adds commas to a number
  * @param {number} number
- * @param {string} locale
+ * @param {string} locale (optional)
  * @return {string}
  */
 module.exports = function(number, locale) {
